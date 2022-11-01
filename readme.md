@@ -4,6 +4,8 @@ For those who wish to learn more about flexbox and all its properties, I highly 
 
 Thanks 'interneting is hard' for all your amazing content!
 
+![](/images/Screenshot%20from%202022-11-01%2018-10-46.png)
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS.

@@ -1,4 +1,4 @@
-# My Awesome Project
+# Learning FlexBox
 
 For those who wish to learn more about flexbox and all its properties, I highly recommend this tutorial: https://www.internetingishard.com/html-and-css/flexbox/, here is my repo with the final design. Hope you like it!.
 

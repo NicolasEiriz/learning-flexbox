@@ -16,5 +16,6 @@ This tutorial helped me to understand more about the "Box Model" and how to 'pla
 
 
 ## Tutorial by: https://www.internetingishard.com/
+## Copied text and diagrams by InternetingIsHard.com
 
 

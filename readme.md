@@ -10,7 +10,7 @@ Thanks 'interneting is hard' for all your amazing content!
 
 ## Lessons Learned:
 
-This tutorial helped me to understand more about the "Box Model" and how to 'play' with all these boxes that are our html code, also I really love all the facilities that the Flex display gives at the time of make the style. I will definitely go deeper in these subject.
+This tutorial helped me to understand more about the "Box Model" and how to 'play' with all these boxes that are our html code, also I really love all the facilities that the Flex display's gives at the time of make the style. I will definitely go deeper in these subject.
 
 
 ## Tutorial by: https://www.internetingishard.com/

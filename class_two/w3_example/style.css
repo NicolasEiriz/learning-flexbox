@@ -1,0 +1,17 @@
+#deals{
+  display: flex;
+  flex-flow: row wrap;
+}
+.sale-item{
+  display: flex;
+  flex-flow: column;
+}
+
+.sale-item > img{
+  order: -1;
+  align-self: center;
+}
+
+.sale-item > button{
+  margin-top: auto;
+}
